@@ -10,15 +10,22 @@ dependencies:
   flutter:
     sdk: flutter
 
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.6
+  flutter_rating_bar: ^4.0.1
+  clippy_flutter: ^2.0.0-nullsafety.1
+
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.2
+  flutter_lints: ^3.0.0
 
 flutter:
   uses-material-design: true
-  # assets:
-  #  - images/a_dot_burr.jpeg
+  assets:
+    - images/
   #  - images/a_dot_ham.jpeg
   # fonts:
   #   - family: Schyler
