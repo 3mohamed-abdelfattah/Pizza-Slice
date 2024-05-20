@@ -52,7 +52,7 @@ class PopularItemsWidget extends StatelessWidget {
                       ),
                       SizedBox(height: 4),
                       Text(
-                        "Taste Our Hot Burger",
+                        "Taste Hot Burger",
                         style: TextStyle(
                           fontSize: 15,
                           // fontWeight: FontWeight.bold
@@ -230,7 +230,7 @@ class PopularItemsWidget extends StatelessWidget {
                       ),
                       SizedBox(height: 4),
                       Text(
-                        "Taste Our Hot Pizza",
+                        "Taste Hot Pizza",
                         style: TextStyle(
                           fontSize: 15,
                           // fontWeight: FontWeight.bold
