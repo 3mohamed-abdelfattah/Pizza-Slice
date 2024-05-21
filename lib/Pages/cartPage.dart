@@ -33,6 +33,8 @@ class CartPage extends StatelessWidget {
                     ),
                   ),
 
+                  //Items
+                  
                   // Item 1
                   Padding(
                     padding: EdgeInsets.symmetric(vertical: 9),
