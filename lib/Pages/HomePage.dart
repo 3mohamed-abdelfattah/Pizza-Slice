@@ -132,6 +132,9 @@ class HomePage extends StatelessWidget {
             offset: Offset(0, 3),
           ),
         ]),
+
+        // Cart Button
+        
         child: FloatingActionButton(
           onPressed: () {
             Navigator.pushNamed(context, "cartPage");
