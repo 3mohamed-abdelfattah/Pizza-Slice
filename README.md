@@ -1,5 +1,6 @@
 # Simple Restaurant App
 
+<img src="https://github.com/3mohamed-abdelfattah/Restaurant_APP/assets/142848460/0f237e02-0e81-471f-8154-e43d131dce7e" alt="Restaurant App" width="300"/>
 
 ## Table of Contents
 
@@ -31,11 +32,8 @@ The Simple Restaurant App is a mobile application built using Dart [Flutter]. Th
 
 ## Screenshots
 <img src="https://github.com/3mohamed-abdelfattah/Restaurant_APP/assets/142848460/aea2574c-face-4350-8768-bcadef7692d6" alt="Home Screen" width="300"/>
-*Home Screen*
 <img src="https://github.com/3mohamed-abdelfattah/Restaurant_APP/assets/142848460/49f9ccef-6490-4dee-885a-ce7470c40837" alt="Dish Details" width="300"/>
-*Dish Details*
 <img src="https://github.com/3mohamed-abdelfattah/Restaurant_APP/assets/142848460/5d8cb005-21f6-447a-96e5-d3dcc3dc169e" alt="Cart" width="300"/>
-*Cart*
 
 
 > **✨ Check out the demo before launching the App! 🚀**
