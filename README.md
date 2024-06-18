@@ -30,7 +30,7 @@ The Simple Restaurant App is a mobile application built using Dart [Flutter]. Th
 - Proceed to checkout and place your order.
 
 ## Screenshots
-
+<div width="50%">
 ![image](https://github.com/3mohamed-abdelfattah/Restaurant_APP/assets/142848460/0f237e02-0e81-471f-8154-e43d131dce7e)
 
 ![image](https://github.com/3mohamed-abdelfattah/Restaurant_APP/assets/142848460/aea2574c-face-4350-8768-bcadef7692d6)
@@ -38,6 +38,9 @@ The Simple Restaurant App is a mobile application built using Dart [Flutter]. Th
 ![image](https://github.com/3mohamed-abdelfattah/Restaurant_APP/assets/142848460/49f9ccef-6490-4dee-885a-ce7470c40837)
 
 ![image](https://github.com/3mohamed-abdelfattah/Restaurant_APP/assets/142848460/5d8cb005-21f6-447a-96e5-d3dcc3dc169e)
+  
+</div>
+
 
 > **✨ Check out the demo before launching the App! 🚀**
 
