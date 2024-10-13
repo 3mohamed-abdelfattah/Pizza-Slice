@@ -1,4 +1,4 @@
-# Simple Restaurant App
+# Pizza Slice
 
 
 ## Table of Contents
